@@ -1,3 +1,5 @@
-just another gffile created in feachir 1 branch
+This line was replece in feature-2 branch
 
 This file was modified localy
+
+this line was added in feature-2 branch
